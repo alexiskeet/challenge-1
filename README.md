@@ -14,7 +14,7 @@ N/A
 
 ## Usage
 
-This website can be used as the landing page for Horiseon. This allows users to be directed easily to important link as well as see information about the company clearly displayed on the home page. 
+This website can be used as the landing page for Horiseon. This allows users to be directed easily to important link as well as see information about the company clearly displayed on the home page.
 
 ## Credits
 
